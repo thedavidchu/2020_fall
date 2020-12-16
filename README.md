@@ -16,11 +16,14 @@ The ECE367 labs should work out of the box. They are small enough that they are 
 Finally, if you are a sleep-deprived EngSci looking for answers, my reports cost extra. :P Just kidding, no they don't. I just don't have them handy.
 
 ## Lessons Learned
-Going into next semester, I am going to better plan my code layout. I am going to think in terms of Git-- that is, I will start a repository and upload there.
+Going into next semester, I am going to better plan my code layout. I am going to think in terms of Git-- that is, I will start a repository and upload there. 
+
+This semester, Git was a complete after thought. I just wrote the code locally (all personal projects) and then at the end of the semester, I decided to upload.
+
 
 2020_Winter/
-  course1-lab1/
-    ...
-  course1-lab2/
-    ...
-  ...
+>course1-lab1/
+>>...
+>course1-lab2/
+>>...
+>...
