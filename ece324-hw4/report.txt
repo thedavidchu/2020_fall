@@ -1,0 +1,29 @@
+Training Run	Max V Acc	Train Time	Max Epoch	Status
+2	0.752293586730957	0	96	Failure (probably memory or something)!
+3	0.11140236258506775	0	39	Failure (probably memory or something)!
+4	0.803407609462738	350.3318667411804	110	Success!
+5	0.6880733966827393	344.54434609413147	110	Success!
+6	0.12188728898763657	342.4845175743103	110	Success!
+Training Run	Max V Acc	Train Time	Max Epoch	Status
+7	0.6408911943435669	343.3013255596161	32	Failure (probably memory or something)!
+8	0.8519003987312317	428.51826524734497	99	Failure (probably memory or something)!
+9	0.8479685187339783	358.07281136512756	32	Failure (probably memory or something)!
+10	0.8951507210731506	380.63402557373047	32	Failure (probably memory or something)!
+11	0.9200524091720581	402.26219034194946	31	Failure (probably memory or something)!
+Training Run	Max V Acc	Train Time	Max Epoch	Status
+2	0.752293586730957	431.22232246398926	97	Failure (probably memory or something)!
+3	0.11140236258506775	290.7224531173706	40	Failure (probably memory or something)!
+6	0.12188728898763657	412.7931408882141	111	Success!
+Training Run	Max V Acc	Train Time	Max Epoch	Status
+0	0.6671035289764404	333.9839105606079	110 Success!
+1	0.8073394298553467	408.55393171310425	99	Failure (probably memory or something)!
+11	0.9266055226325989	932.4926970005035	61	Failure (probably memory or something)! -- unable to saveBatch NormFailure!	0.650065541267395	701.2664530277252	15
+CELFailure!	0	0	0
+CELFailure!	0.8781127333641052	235.33267211914062	13
+CELFailure!	0.9200524091720581	460.5287742614746	23
+CELFailure!	0	0	0
+CELFailure!	0.4954128563404083	360.91649556159973	27
+CELFailure!	0.9436435103416443	1118.1311111450195	57
+CELFailure!	0.5766710638999939	542.5474653244019	31
+Training Run	Max V Acc	Train Time	Max Epoch	Status
+6	0.5360419154167175	449.05692863464355	92	Failure (probably memory or something)!
