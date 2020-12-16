@@ -1,4 +1,4 @@
-# 2020_Fall
+# 2020_fall
 
 Code that I have written/ used for the Fall semester of EngSci Year 3.
 
